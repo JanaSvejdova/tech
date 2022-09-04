@@ -1,0 +1,14 @@
+<?php
+session_start();
+
+define("SITEURL","http://localhost/tech/");
+define("LOCALHOST","localhost");
+define('DB_USERNAME', 'root');
+define('DB_PASSWORD','');
+define('DB_NAME', 'file');
+
+   $conn = mysqli_connect(LOCALHOST,'root', '') or  die('Error: ' . mysqli_error($conn));
+
+
+   $db_select = mysqli_select_db($conn, DB_NAME) or    die('Error: ' . mysqli_error($conn));
+?>

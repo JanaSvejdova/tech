@@ -1,0 +1,103 @@
+*{
+    margin:0; 
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+.wrapper {
+   
+    padding: 1%;
+    width: 80%;
+    margin: 0  auto;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.file-table{
+     width: 100%;
+     display: inline;
+     padding: 1%;
+}
+.main-content{
+   
+    background-color: #f1f2f6 ;
+    padding: 3% 0;
+}
+.top
+{   
+    background-color: #97a3d3 ;
+    padding: 2% ; 
+   
+}
+.right{
+    margin-left: 10%;
+}
+.tbl-full{
+    width: 100%;
+ 
+}
+.tbl-30  {
+    width: 45%;
+}
+
+.btn-primany {
+    background-color: rgb(31, 143, 207);
+    margin-left: 70%;
+    padding: 1%;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    
+ }
+ .btn-down {
+    background-color: rgb(36, 161, 46);
+    padding: 2%;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    
+ }
+ a:hover  {
+    color:  #2898ac
+    }
+table tr td{
+    
+    padding: 1%;
+    text-align: left;
+
+ }
+ 
+table tr th {
+    border: 1px solid black;
+  padding: 1%;
+    text-align: center;
+
+ }
+ .info{
+   
+    background-color: #9da7cf ;
+    padding: 2% 0;
+    width: 100%;
+}
+
+.btn-secondary {
+    background-color: rgb(22, 138, 41);
+    padding: 2%;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+ }
+
+ .btn-secondary:hover{
+    background-color: rgb(30, 51, 5);
+ }
+ 
+.success {
+    color:rgb(20, 179, 60);
+}
+.error {
+    color: rgb(170, 38, 38);
+}
