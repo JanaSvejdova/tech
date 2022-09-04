@@ -10,3 +10,9 @@ localhost/phpadmin
 ![image](https://user-images.githubusercontent.com/80160850/188308909-23e8def5-8636-4922-b2e3-53d87458134a.png)
 
 ![image](https://user-images.githubusercontent.com/80160850/188308915-c6615161-78ef-42e5-b4c3-df10b4d9ce5a.png)
+
+není to 100% dokonale, ale častečne to funguje, není tam edit+vymazavaní. a Tagy nejsou v dokonalem stavu, to se omlouvam. 
+
+(Html/css/hph) 
+
+https://drive.google.com/file/d/1dhlH1ro38DtBzYEe-zxXhDHkbrnIYF_L/view
